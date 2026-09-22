@@ -1,0 +1,17 @@
+{
+  "name": "MotorFix — Oficina Mecânica em Porto Fictício�/MS",
+  "short_name": "MotorFix",
+  "description": "Câmbio automático, arrefecimento, revisão completa e injeção eletrônica em Porto Fictício�/MS.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#0A0A0A",
+  "icons": [
+    {
+      "src": "injet.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
