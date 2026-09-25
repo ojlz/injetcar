@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://MotorFix.vercel.app/sitemap.xml
+Sitemap: https://motorfix-exemplo-ficticio.vercel.app/sitemap.xml
