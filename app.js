@@ -1,4 +1,4 @@
-/* ============ MotorFix Exemplo — app.js ============ */
+/* ============ MotorFix — app.js ============ */
 (function () {
   'use strict';
 
@@ -9,7 +9,7 @@
   /* ---- Links de WhatsApp com mensagem pronta (data-wa) ---- */
   document.querySelectorAll('[data-wa]').forEach(function (a) {
     a.addEventListener('click', function () {
-      var msg = a.getAttribute('data-wa') || 'Olá! Vim pelo site da MotorFix Exemplo.';
+      var msg = a.getAttribute('data-wa') || 'Olá! Vim pelo site da MotorFix.';
       a.href = WA + encodeURIComponent(msg);
     });
   });
